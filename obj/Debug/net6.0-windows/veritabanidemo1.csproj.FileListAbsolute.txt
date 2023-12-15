@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.CustomerForm.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.EmployeForm.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.Login.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.ManagerForm.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.PaymentForm.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.RegisterForm.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.ReservationForm.resources
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\veritabanı\veritabanidemo1\obj\Debug\net6.0-windows\veritabanidemo1.csproj.CoreCompileInputs.cache
